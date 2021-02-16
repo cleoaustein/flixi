@@ -2,6 +2,8 @@
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+## Network Request Snippet
+
 let url = URL(string: "https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed")!
 let request = URLRequest(url: url, cachePolicy: .reloadIgnoringLocalCacheData, timeoutInterval: 10)
 let session = URLSession(configuration: .default, delegate: nil, delegateQueue: OperationQueue.main)
@@ -39,4 +41,4 @@ task.resume()
 <img src='https://imgur.com/a/Wn1Q53H.gif' width=250><br>
 
 ### Notes
-So much fun!
+So much fun! I loved learning how to make this app. The steps were easy to follow. 
