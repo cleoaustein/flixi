@@ -37,7 +37,7 @@ task.resume()
 
 ### App Walkthrough GIF
 
-<img src="https://imgur.com/a/Wn1Q53H.gif" width=250><br>
+<img src='https://imgur.com/a/Wn1Q53H.gif' width=250><br>
 
 ### Notes
 So much fun!
