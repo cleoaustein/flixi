@@ -38,7 +38,7 @@ task.resume()
 
 ### App Walkthrough GIF
 
-<img src="/flix.mp4" width=250><br>
+<img src="flixi/flix.mp4" width=250><br>
 
 ### Notes
 So much fun! I loved learning how to make this app. The steps were easy to follow. 
